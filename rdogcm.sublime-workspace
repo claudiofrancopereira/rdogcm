@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"cour",
+				"course_update"
+			],
+			[
+				"Course",
+				"CourseForm"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"con",
+				"contact_view"
+			],
+			[
+				"abou",
+				"about_view"
+			],
+			[
+				"pro",
+				"product_detail_view"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"Produ",
+				"ProductForm"
+			],
+			[
+				"contac",
+				"contact_page"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"update",
+				"update_product"
+			],
+			[
+				"up",
+				"update_product"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm"
+	],
+	"file_history":
+	[
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/.gitignore",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_delete.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_update.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_create.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_list.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_detail.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/trydjango/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/trydjango/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/templates/articles/article_delete.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/templates/articles/article_create.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/templates/products/product_create.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/templates/blog/article_detail.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/blog/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/templates/article_list.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/templates/arcticle_list.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/migrations/0001_initial.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/Blog/templates/arcticle_detail.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/templates/products/product_list.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/templates/products/product_delete.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/templates/products/product_detail.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/about.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/product/detail.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/pages/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/base.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/navbar.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/home.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/templates/contact.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/products/apps.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/templates/prod-delete-confirm.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/templates/products-form.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/project/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/project/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/products/templates/products.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/project/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/polls/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/polls/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/polls/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/mysite/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/polls/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/mysite/mysite/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/templates/produtos.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/proj/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/proj/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/django/proj/produtos/migrations/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/proj1.c",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/testerremoto/teste.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/funcoes.txt",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/changelog.txt",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/index.php",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/readme.txt",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/novo.txt",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/.gitignore",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/cursogit/README.md",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/e71.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/teste3.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/teste.txt",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/teste2.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/teste.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/exerc 9.1.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/exerc 5.3.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/aula 1.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/curso/simplemooc/simplemooc/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/curso/simplemooc/simplemooc/core/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/curso/simplemooc/simplemooc/urls.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def form_valid( self, form ):\n\t\tprint( form.cleaned_data )\n\t\treturn super().form_valid( form )"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rdogcm.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

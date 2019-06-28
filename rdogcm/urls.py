@@ -16,9 +16,6 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from novo_rdo.views import novo_rdo_view
-
 urlpatterns = [
-	path('novo_rdo/', novo_rdo_view ),
-    path('admin/', admin.site.urls),
+	path('admin/', admin.site.urls),
 ]

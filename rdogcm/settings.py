@@ -25,7 +25,7 @@ SECRET_KEY = 'u$siz+w$zcv4f2mmf#%dz#@qi(soc@lgnt6=6vjm9o9p8jjrct'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rdogcm.herokuapp.com']
+ALLOWED_HOSTS = ['rdogcm.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'novo_rdo',
 ]
 
 MIDDLEWARE = [

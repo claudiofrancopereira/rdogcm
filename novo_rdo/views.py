@@ -14,7 +14,7 @@ def novo_rdo( request ):
 		if fRDO.is_valid():
 			RDO.objects.create( numero = iNumero, 
 								data = dData, 
-								**my_form.cleaned_data )
+								**fRDO.cleaned_data )
 			fRDO = RDOForm()
 			iNumero = (RDO.objects.count() + 1)
 	

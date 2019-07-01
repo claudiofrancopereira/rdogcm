@@ -4,12 +4,16 @@
 		"selected_items":
 		[
 			[
-				"o",
-				"objects"
+				"hora",
+				"hora_local"
 			],
 			[
-				"hora",
-				"hora_final"
+				"RDO",
+				"RDOForm"
+			],
+			[
+				"o",
+				"objects"
 			],
 			[
 				"hora_",
@@ -100,7 +104,7 @@
 			"file": "novo_rdo/forms.py",
 			"settings":
 			{
-				"buffer_size": 789,
+				"buffer_size": 675,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -109,7 +113,16 @@
 			"file": "novo_rdo/views.py",
 			"settings":
 			{
-				"buffer_size": 425,
+				"buffer_size": 676,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "novo_rdo/templates/novo_rdo.html",
+			"settings":
+			{
+				"buffer_size": 231,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -149,10 +162,13 @@
 	[
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/templates",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/rdogcm"
 	],
 	"file_history":
 	[
+		"/C/Python/Lib/site-packages/django/contrib/admin/static/admin/js/admin/DateTimeShortcuts.js",
+		"/C/Python/tcl/tcl8.6/clock.tcl",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/views.py",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/templates/novo_rdo.html",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/forms.py",
@@ -260,7 +276,7 @@
 	],
 	"find":
 	{
-		"height": 75.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -274,6 +290,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"agora",
+			"now",
+			"d",
+			"ddata",
 			"def form_valid( self, form ):\n\t\tprint( form.cleaned_data )\n\t\treturn super().form_valid( form )"
 		],
 		"highlight": true,
@@ -308,8 +328,37 @@
 						"selection":
 						[
 							[
-								583,
-								583
+								122,
+								581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "novo_rdo/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
 							]
 						],
 						"settings":
@@ -325,49 +374,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "novo_rdo/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 789,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								200,
-								200
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
 					"buffer": 2,
 					"file": "novo_rdo/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 425,
+						"buffer_size": 676,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								425,
-								425
+								676,
+								676
 							]
 						],
 						"settings":
@@ -379,6 +399,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "novo_rdo/templates/novo_rdo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

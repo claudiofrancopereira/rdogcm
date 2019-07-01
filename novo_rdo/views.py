@@ -11,7 +11,7 @@ def novo_rdo( request ):
 	if request.method == 'POST':
 		fRDO = RDOForm( request.POST )
 
-		if my_form.is_valid():
+		if fRDO.is_valid():
 			RDO.objects.create( numero = iNumero, 
 								data = dData, 
 								**my_form.cleaned_data )

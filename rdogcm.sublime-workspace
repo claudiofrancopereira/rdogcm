@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"o",
+				"objects"
+			],
+			[
+				"hora",
+				"hora_final"
+			],
+			[
+				"hora_",
+				"hora_comunicacao"
+			],
+			[
 				"get",
 				"get_object_or_404"
 			],
@@ -75,6 +87,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "novo_rdo/models.py",
+			"settings":
+			{
+				"buffer_size": 674,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "novo_rdo/forms.py",
+			"settings":
+			{
+				"buffer_size": 789,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "novo_rdo/views.py",
+			"settings":
+			{
+				"buffer_size": 425,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -108,10 +147,24 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm"
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/rdogcm"
 	],
 	"file_history":
 	[
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/views.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/templates/novo_rdo.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/forms.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/migrations/0001_initial.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/rdogcm/settings.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/admin.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/rdogcm/urls.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/rdogcm/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/novo_rdo/templates/novordo.html",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/models.py",
+		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/Procfile",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/rdogcm/.gitignore",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/forms.py",
 		"/C/Users/Claudinho/Dropbox/Claudio/Programacao/python/trydjango/courses/templates/courses/course_delete.html",
@@ -207,7 +260,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 75.0
 	},
 	"find_in_files":
 	{
@@ -239,8 +292,95 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "novo_rdo/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "novo_rdo/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "novo_rdo/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
